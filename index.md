@@ -1,6 +1,6 @@
 ## Morgan Roggenbaum's Engineering Project Portfolio
 
-You can use the [editor on GitHub](https://github.com/mroggenbaum/engr-project-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+On this website, I will be creating an engineering project portfolio to showcase the projects I have completed in my undergraduate and graduate studies. I plan include projects from ENGR 422, BE 468, BE 466 (capstone), and my master's research. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
